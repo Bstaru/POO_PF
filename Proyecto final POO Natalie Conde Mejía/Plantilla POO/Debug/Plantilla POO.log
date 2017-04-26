@@ -1,0 +1,36 @@
+﻿Build started 04/08/2015 09:53:38 p. m..
+     1>Project "C:\Users\Usuario\Documents\.1) Facu\4to Sem\POOC++\Proyecto final POO Natalie Conde Mejía\Plantilla POO\Plantilla POO.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Plantilla POO.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Camera_v2.cpp Main.cpp
+         Skipping... (no relevant changes detected)
+         Main.cpp
+         Camera_v2.cpp
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Usuario\Documents\.1) Facu\4to Sem\POOC++\Proyecto final POO Natalie Conde Mejía\Debug\Plantilla POO.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\lib\x86\\" opengl32.lib glu32.lib dxguid.lib Glaux.lib dinput8.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib xinput.lib winmm.lib /MANIFEST /ManifestFile:"Debug\Plantilla POO.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Usuario\Documents\.1) Facu\4to Sem\POOC++\Proyecto final POO Natalie Conde Mejía\Debug\Plantilla POO.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Usuario\Documents\.1) Facu\4to Sem\POOC++\Proyecto final POO Natalie Conde Mejía\Debug\Plantilla POO.lib" /MACHINE:X86 "Debug\Plantilla POO.exe.embed.manifest.res"
+         Debug\BMPLoader.obj
+         Debug\Camera_v2.obj
+         Debug\Dome.obj
+         Debug\glm.obj
+         Debug\Main.obj
+         Debug\Model.obj
+         Debug\Objetos.obj
+         Debug\Terrain_v2.obj
+         Debug\Water.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Plantilla POO.exe.embed.manifest" /manifest "Debug\Plantilla POO.exe.intermediate.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Plantilla POO.vcxproj -> C:\Users\Usuario\Documents\.1) Facu\4to Sem\POOC++\Proyecto final POO Natalie Conde Mejía\Debug\Plantilla POO.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Plantilla POO.unsuccessfulbuild".
+         Touching "Debug\Plantilla POO.lastbuildstate".
+     1>Done Building Project "C:\Users\Usuario\Documents\.1) Facu\4to Sem\POOC++\Proyecto final POO Natalie Conde Mejía\Plantilla POO\Plantilla POO.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.50
